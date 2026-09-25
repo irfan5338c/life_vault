@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Outer Shield Glow / Fill -->
+    <path
+        android:fillColor="#00E5FF"
+        android:fillAlpha="0.18"
+        android:pathData="M24,4 L38,9.5 L38,22 C38,32.5 32,41.5 24,44 C16,41.5 10,32.5 10,22 L10,9.5 Z"/>
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M24,4 L38,9.5 L38,22 C38,32.5 32,41.5 24,44 C16,41.5 10,32.5 10,22 L10,9.5 Z"/>
+    <!-- Padlock Shackle -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M20,22 L20,18 C20,15.8 21.8,14 24,14 C26.2,14 28,15.8 28,18 L28,22"/>
+    <!-- Padlock Body -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M18,22 L30,22 C31.1,22 32,22.9 32,24 L32,32 C32,33.1 31.1,34 30,34 L18,34 C16.9,34 16,33.1 16,32 L16,24 C16,22.9 16.9,22 18,22 Z"/>
+    <!-- Padlock Keyhole -->
+    <path
+        android:fillColor="#090D16"
+        android:pathData="M24,25.5 C23.2,25.5 22.5,26.2 22.5,27 C22.5,27.6 22.8,28.1 23.3,28.3 L23.1,30.5 L24.9,30.5 L24.7,28.3 C25.2,28.1 25.5,27.6 25.5,27 C25.5,26.2 24.8,25.5 24,25.5 Z"/>
+</vector>

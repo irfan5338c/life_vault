@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LifeVault AI</string>
+    <string name="voice_input_title">Voice Command</string>
+    <string name="voice_listening">Listening for your voice…</string>
+    <string name="voice_speak_prompt">Speak your memory, question, or decision…</string>
+    <string name="voice_permission_required">Microphone access is needed for voice recognition.</string>
+    <string name="voice_grant_permission">Grant Microphone Permission</string>
+    <string name="voice_speech_not_available">Speech recognition service is not available on this device.</string>
+</resources>
